@@ -1,0 +1,7 @@
+C:\Users\being\OneDrive\Desktop\uni\semester 2\OOP\week4\week4\obj\Debug\week4.csproj.AssemblyReference.cache
+C:\Users\being\OneDrive\Desktop\uni\semester 2\OOP\week4\week4\obj\Debug\week4.csproj.CoreCompileInputs.cache
+C:\Users\being\OneDrive\Desktop\uni\semester 2\OOP\week4\week4\bin\Debug\week4.exe.config
+C:\Users\being\OneDrive\Desktop\uni\semester 2\OOP\week4\week4\bin\Debug\week4.exe
+C:\Users\being\OneDrive\Desktop\uni\semester 2\OOP\week4\week4\bin\Debug\week4.pdb
+C:\Users\being\OneDrive\Desktop\uni\semester 2\OOP\week4\week4\obj\Debug\week4.exe
+C:\Users\being\OneDrive\Desktop\uni\semester 2\OOP\week4\week4\obj\Debug\week4.pdb
